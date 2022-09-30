@@ -1,5 +1,12 @@
 import React from "react";
-import { View, Text, Image, ViewPropTypes, Dimensions } from "react-native";
+import {
+	View,
+	Text,
+	Image,
+	// ViewPropTypes,
+	Dimensions
+} from "react-native";
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 import PropTypes from "prop-types";
 import ViewTransformer from "react-native-easy-view-transformer";
 
