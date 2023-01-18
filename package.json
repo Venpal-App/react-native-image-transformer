@@ -53,7 +53,7 @@
   "dependencies": {
     "deprecated-react-native-prop-types": "^2.3.0",
     "prop-types": "^15.6.2",
-    "react-native-easy-view-transformer": "^1.2.0"
+    "react-native-easy-view-transformer": "https://github.com/Venpal-App/react-native-easy-view-transformer.git"
   },
   "peerDependencies": {
     "react": "*",
